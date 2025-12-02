@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 5a08e31259ee68b4ea22d5db7cc3f1bb
+guid: d85d97c618535d64da2933279eebb482
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2271584713653053524
-    second: FISHknifehead_0
+      213: -7907951331658488048
+    second: Stick_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,40 +96,27 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FISHknifehead_0
+      name: Stick_0
       rect:
         serializedVersion: 2
-        x: 101
-        y: 902
-        width: 2213
-        height: 1428
-      alignment: 9
-      pivot: {x: 0.982901, y: 0.3216346}
+        x: 37
+        y: 28
+        width: 208
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4586f7ef24a468f10800000000000000
-      internalID: 2271584713653053524
+      spriteID: 0172b677920514290800000000000000
+      internalID: -7907951331658488048
       vertices: []
       indices: 
       edges: []
@@ -138,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 2060a0e332940f24cbe9b8d490efc817
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      FISHknifehead_0: 2271584713653053524
+      Stick_0: -7907951331658488048
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
