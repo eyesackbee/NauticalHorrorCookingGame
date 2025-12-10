@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Cut
   - CutStart
+  - Border
   layers:
   - Default
   - TransparentFX

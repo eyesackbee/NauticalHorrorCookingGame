@@ -1,8 +1,11 @@
+using System.Collections;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Fish : MonoBehaviour
 {
     private Animator animator;
+    public UnityEvent OnClick;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -17,5 +20,17 @@ public class Fish : MonoBehaviour
         {
             animator.SetTrigger("Kill");
         }
+    }
+
+    private void OnMouseDown()
+    {
+        animator.SetTrigger("Kill");
+        StartCoroutine(DelayInvoke());
+    }
+
+    IEnumerator DelayInvoke()
+    {
+        yield return new WaitForSeconds(1);
+        OnClick.Invoke();
     }
 }
