@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class SpawnManager : MonoBehaviour
 {
-    public GameObject Bug;
+    public GameObject[] Bug;
     public float SpawnRate;
     public Transform SpawnPoint;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -21,7 +21,8 @@ public class SpawnManager : MonoBehaviour
     IEnumerator SpawnBug()
     {
         yield return new WaitForSeconds(SpawnRate);
-        Instantiate(Bug, SpawnPoint.position,Quaternion.identity);
+        int index=Random.Range(0, Bug.Length);
+        Instantiate(Bug[index], SpawnPoint.position,Quaternion.identity);
         StartCoroutine(SpawnBug());
     }
 }
