@@ -3,7 +3,10 @@ using UnityEngine;
 public class ConveyerManager : MonoBehaviour
 
 {
-    public GameObject[] conveyerItems;
+    public Ingredient[] conveyerItems;
+    public GameObject mixPrefab;
+    public GameObject addPrefab;
+    public Transform appearancePosition;
     private int index = 0;
     public float spawnRateInSeconds;
     private float count = 0;
@@ -19,9 +22,25 @@ public class ConveyerManager : MonoBehaviour
         count += Time.deltaTime;
         if (count > spawnRateInSeconds)
         {
-            Instantiate(conveyerItems[index], transform.position, Quaternion.identity);
+            if(conveyerItems[index].actionType == ActionType.Mix)
+            {
+                Instantiate(mixPrefab, transform.position, Quaternion.identity);
+            }
+            else
+            {
+                GameObject clone = Instantiate(addPrefab, transform.position, Quaternion.identity);
+                clone.GetComponent<AddAction>().SetIngredient(conveyerItems[index]);
+            }
+            
             count = 0;
             index += 1;
         }
+    }
+
+    public void ShowAdd(Ingredient ingredient, AddAction action)
+    {
+        GameObject clone = Instantiate(ingredient.ingredientPrefab, appearancePosition.position, Quaternion.identity);
+        clone.GetComponent<Rigidbody2D>().gravityScale = 0;
+        action.SetIngredientPrefab(clone);
     }
 }

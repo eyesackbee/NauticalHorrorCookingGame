@@ -25,6 +25,7 @@ public class StirManager : MonoBehaviour
     private bool timedOut = false;
     //private OnGameOver onGameOver;
     private AudioSource audio;
+    public Transform LadleEnd;
 
     // Start is called before the first frame update
     void Start()
@@ -81,7 +82,8 @@ public class StirManager : MonoBehaviour
 
             if (mouseDown == true)
         {
-            RaycastHit2D hit = Physics2D.CircleCast(Camera.main.ScreenToWorldPoint(Input.mousePosition), stirRadius, Vector2.zero, 1f, layerMask);
+            //RaycastHit2D hit = Physics2D.CircleCast(Camera.main.ScreenToWorldPoint(Input.mousePosition), stirRadius, Vector2.zero, 1f, layerMask);
+            RaycastHit2D hit = Physics2D.CircleCast(LadleEnd.position, stirRadius, Vector2.zero, 1f, layerMask);
             {
                 if (hit != null)
                 {
@@ -149,7 +151,7 @@ public class StirManager : MonoBehaviour
 
     public bool IsStirsComplete()
     {
-        if (stirCount == maxStirs)
+        if (stirCount > 0.75f * maxStirs)
         {
             return true;
         }
