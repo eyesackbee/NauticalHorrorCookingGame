@@ -56,11 +56,12 @@ public class StirManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (stirPointsList.Count >= 14)
+        if (stirPointsList.Count >= 9)
         {
             print("stir speed " + speedOfStir);
             speedOfStir = 0;
             ClearStirMarkers();
+            ConveyerManager.actionInProgress.OperationCompleted();
         }
 
         if (Input.GetMouseButtonDown(0))
@@ -140,7 +141,7 @@ public class StirManager : MonoBehaviour
         }
         beginStir = true;
         stirCount += 1;
-        stirProgressBar.value = (float)stirCount/maxStirs;
+        //stirProgressBar.value = (float)stirCount/maxStirs;
         print((float)stirCount / maxStirs); 
         if (IsStirsComplete())
         {

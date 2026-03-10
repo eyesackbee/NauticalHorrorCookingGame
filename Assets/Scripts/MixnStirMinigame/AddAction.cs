@@ -22,11 +22,17 @@ public class AddAction : MonoBehaviour
         prefab = veg;
     }
 
+    public void OperationCompleted()
+    {
+        ingredient.CompletedOperation = true;
+    }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Marker"))
         {
             manager.ShowAdd(ingredient, this);
+            ConveyerManager.actionInProgress = this;
         }
     }
 
@@ -34,7 +40,16 @@ public class AddAction : MonoBehaviour
     {
         if (collision.CompareTag("Marker"))
         {
-            Destroy(prefab);
+            if (ingredient.CompletedOperation == true)
+            {
+                Debug.Log("Operation Complete");
+            }
+
+            if (prefab != null)
+            {
+                
+                Destroy(prefab);
+            }
             Destroy(gameObject,1f);
         }
     }

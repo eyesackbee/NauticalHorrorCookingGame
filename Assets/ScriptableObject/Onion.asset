@@ -15,3 +15,4 @@ MonoBehaviour:
   ingredientName: Onion
   ingredientPrefab: {fileID: 5081537228552134978, guid: 1966afdf488aa7143a4c7b902aecbd35, type: 3}
   actionType: 1
+  CompletedOperation: 0

@@ -15,3 +15,4 @@ MonoBehaviour:
   ingredientName: Carrot
   ingredientPrefab: {fileID: 1778942581310378676, guid: 59a41185bbccc2d4fac07171f98d530a, type: 3}
   actionType: 1
+  CompletedOperation: 0

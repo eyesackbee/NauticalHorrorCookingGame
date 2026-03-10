@@ -15,3 +15,4 @@ MonoBehaviour:
   ingredientName: Egg
   ingredientPrefab: {fileID: 2021250872046635595, guid: d95369fa422a9b94999d917bcecb45b0, type: 3}
   actionType: 1
+  CompletedOperation: 0

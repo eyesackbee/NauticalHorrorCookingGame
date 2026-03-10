@@ -1,4 +1,5 @@
 using System.Collections;
+using System.Runtime.InteropServices;
 using UnityEngine;
 
 public class ClickedIngredient : MonoBehaviour
@@ -6,10 +7,16 @@ public class ClickedIngredient : MonoBehaviour
     public GameObject Bits;
     private Transform FallPosition;
     private bool Clicked = false;
+    private AddAction addAction;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         FallPosition = GameObject.FindGameObjectWithTag("FallPosition").transform;
+    }
+
+    public void SetAction(AddAction action)
+    {
+        addAction = action; 
     }
 
     // Update is called once per frame
@@ -24,6 +31,7 @@ public class ClickedIngredient : MonoBehaviour
         {
             StartCoroutine(ChoppedBits());
             Clicked = true;
+            addAction.OperationCompleted();
         }
         
     }
