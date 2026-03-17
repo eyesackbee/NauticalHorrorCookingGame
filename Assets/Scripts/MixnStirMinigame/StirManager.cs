@@ -26,6 +26,7 @@ public class StirManager : MonoBehaviour
     //private OnGameOver onGameOver;
     private AudioSource audio;
     public Transform LadleEnd;
+    public bool canStir = false;
 
     // Start is called before the first frame update
     void Start()
@@ -56,7 +57,7 @@ public class StirManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (stirPointsList.Count >= 9)
+        if (stirPointsList.Count >= 9 && canStir)
         {
             print("stir speed " + speedOfStir);
             speedOfStir = 0;
@@ -126,7 +127,7 @@ public class StirManager : MonoBehaviour
         }
     }
 
-    void ClearStirMarkers()
+    public void ClearStirMarkers()
     {
 
         for (int i = 0; i < stirPointsList.Count; i++)
@@ -149,6 +150,8 @@ public class StirManager : MonoBehaviour
             //onGameOver.OnComplete();
         }
     }
+
+  
 
     public bool IsStirsComplete()
     {

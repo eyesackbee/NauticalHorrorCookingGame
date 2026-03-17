@@ -11,6 +11,7 @@ public class ConveyerManager : MonoBehaviour
     public float spawnRateInSeconds;
     private float count = 0;
     public static AddAction actionInProgress;
+    public int correctOperations = 0;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -20,7 +21,22 @@ public class ConveyerManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(index == conveyerItems.Length) { return; }
+        if(index == conveyerItems.Length) 
+        { 
+            if(correctOperations > 6)
+            {
+                Debug.Log("Excellent");
+            }
+            else if(correctOperations > 3)
+            {
+                Debug.Log("Good");
+            }
+            else
+            {
+                Debug.Log("bAD!!!!");
+            }
+                return; 
+        }
         count += Time.deltaTime;
         if (count > spawnRateInSeconds)
         {
