@@ -9,6 +9,9 @@ TagManager:
   - Border
   - Marker
   - FallPosition
+  - Pot
+  - Ladle
+  - Plate
   layers:
   - Default
   - TransparentFX
@@ -18,7 +21,7 @@ TagManager:
   - UI
   - StirPoint
   - Ladle
-  - 
+  - Plate
   - 
   - 
   - 
