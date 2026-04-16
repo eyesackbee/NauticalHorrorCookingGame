@@ -22,21 +22,21 @@ public class Table : MonoBehaviour
     void Start()
     {
         startRotation = Quaternion.identity;
-        endRotation = CalculateRotation();
+        endRotation = CalculateRotation(transform.eulerAngles);
         speed = Random.Range(minRotationSpeed, maxRotationSpeed);
     }
 
-    Quaternion CalculateRotation()
+    Quaternion CalculateRotation(Vector3 currentRotation)
     {
         if (goRight)
         {
-            float a = Random.Range(-maxLeftRotation, 0f);
+            float a = Random.Range(-maxRightRotation, -5f);
             endRotation = Quaternion.Euler(0, 0, a);
             goRight = false;
         }
         else
         {
-            float a = Random.Range(0f, maxLeftRotation);
+            float a = Random.Range(5f, maxLeftRotation);
             endRotation = Quaternion.Euler(0, 0, a);
             goRight = true;
         }
@@ -63,7 +63,8 @@ public class Table : MonoBehaviour
         float waitTime = Random.Range(minWaitTime, maxWaitTime);
         yield return new WaitForSeconds(waitTime);
         startRotation = transform.rotation;
-        endRotation = CalculateRotation();
+        Vector3 blah = startRotation.eulerAngles;
+        endRotation = CalculateRotation(blah);
         canRotate = true;
         t = 0f;
         speed = Random.Range(minRotationSpeed, maxRotationSpeed);

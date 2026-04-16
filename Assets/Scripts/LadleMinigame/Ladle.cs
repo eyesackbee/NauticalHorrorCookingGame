@@ -26,7 +26,8 @@ public class Ladle : MonoBehaviour
                 if (hit == true)
                 {
                     print("mouseDown " + hit.collider.name);
-                    hit.collider.transform.GetChild(0).gameObject.SetActive(true);
+                    hit.collider.GetComponent<Bowl>().AddSoup();
+                    transform.GetChild(0).gameObject.SetActive(false);
                 }
             }
 

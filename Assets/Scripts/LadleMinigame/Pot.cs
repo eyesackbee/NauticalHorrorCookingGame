@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class Pot : MonoBehaviour
 {
+    private bool over = false;
+    public Transform ladle;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -14,11 +16,17 @@ public class Pot : MonoBehaviour
         
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnMouseDown()
     {
-        if (collision.CompareTag("Ladle"))
-        {
-            collision.transform.GetChild(0).gameObject.SetActive(true);
-        }
+        ladle.GetChild(0).gameObject.SetActive(true);
     }
+
+    //private void OnTriggerEnter2D(Collider2D collision)
+    //{
+    //    if (collision.CompareTag("Ladle"))
+    //    {
+    //        over = true;
+    //    }
+    //}
+
 }

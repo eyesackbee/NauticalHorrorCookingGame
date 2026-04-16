@@ -3,26 +3,27 @@ using UnityEngine;
 public class Bowl : MonoBehaviour
 {
     public Transform Ladle;
+    private Transform Soup;
+    private int SoupAmount = 0;
+    private bool BowlFull = false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        transform.GetChild(0).gameObject.SetActive(false);
+        //transform.GetChild(0).gameObject.SetActive(false);
+        Soup = transform.GetChild(0).gameObject.transform;
+        Soup.localScale = new Vector3(0, 0, 0);
     }
 
-    private void OnMouseDown()
+    public void AddSoup()
     {
-        if (Ladle.GetChild(0).gameObject.activeSelf)
+        if (BowlFull ==true) { return; }
+
+        Soup.localScale += new Vector3(0.3f, 0.3f, 0.3f);
+        SoupAmount += 1;
+        if (SoupAmount == 3)
         {
-            transform.GetChild(0).gameObject.SetActive(true);
-            Ladle.GetChild(0).gameObject.SetActive(false);
+            BowlFull = true;
         }
     }
 
-    //private void OnTriggerEnter2D(Collider2D collision)
-    //{
-    //    if (collision.CompareTag("Ladle"))
-    //    {
-    //        transform.GetChild(0).gameObject.SetActive(true);
-    //    }
-    //}
 }
