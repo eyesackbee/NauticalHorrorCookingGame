@@ -1,0 +1,5421 @@
+fileFormatVersion: 2
+guid: b51950e1ee1ac8449be8f16876fe6291
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8627757679472190669
+    second: Background Full_0
+  - first:
+      213: -7550678063586951202
+    second: Background Full_1
+  - first:
+      213: 5474297436743518495
+    second: Background Full_2
+  - first:
+      213: -8813091524434416679
+    second: Background Full_3
+  - first:
+      213: -5927560500176708404
+    second: Background Full_4
+  - first:
+      213: -1130287895046312257
+    second: Background Full_5
+  - first:
+      213: -3256140572439588285
+    second: Background Full_6
+  - first:
+      213: 6146656111806399171
+    second: Background Full_7
+  - first:
+      213: -1064039912365959129
+    second: Background Full_8
+  - first:
+      213: 6571992850780687861
+    second: Background Full_9
+  - first:
+      213: -1623695012956196972
+    second: Background Full_10
+  - first:
+      213: -6846793611274894154
+    second: Background Full_11
+  - first:
+      213: -6778027317466131296
+    second: Background Full_12
+  - first:
+      213: -2698193015374530140
+    second: Background Full_13
+  - first:
+      213: -5099947329199885146
+    second: Background Full_14
+  - first:
+      213: 8912611826651964546
+    second: Background Full_15
+  - first:
+      213: 3149190053998305169
+    second: Background Full_16
+  - first:
+      213: 8498778693094116142
+    second: Background Full_17
+  - first:
+      213: -2930244983748996100
+    second: Background Full_18
+  - first:
+      213: 4326147521247819260
+    second: Background Full_19
+  - first:
+      213: -4654605333021282068
+    second: Background Full_20
+  - first:
+      213: -5408115590357776956
+    second: Background Full_21
+  - first:
+      213: -1183145639677962591
+    second: Background Full_22
+  - first:
+      213: -1202658741823330685
+    second: Background Full_23
+  - first:
+      213: 280725622243722464
+    second: Background Full_24
+  - first:
+      213: -8796077051636163351
+    second: Background Full_25
+  - first:
+      213: -3640247426671969814
+    second: Background Full_26
+  - first:
+      213: -6512069786982793401
+    second: Background Full_27
+  - first:
+      213: -3562936631021555773
+    second: Background Full_28
+  - first:
+      213: 8500081604073218248
+    second: Background Full_29
+  - first:
+      213: -4369463752437951804
+    second: Background Full_30
+  - first:
+      213: 185659690518679356
+    second: Background Full_31
+  - first:
+      213: -817899388288178077
+    second: Background Full_32
+  - first:
+      213: -2754060696843720049
+    second: Background Full_33
+  - first:
+      213: 4070128113014116060
+    second: Background Full_34
+  - first:
+      213: 5689346578051875204
+    second: Background Full_35
+  - first:
+      213: -1387966532771643113
+    second: Background Full_36
+  - first:
+      213: 6003322612392950266
+    second: Background Full_37
+  - first:
+      213: -2745910101834070400
+    second: Background Full_38
+  - first:
+      213: -102918459430958963
+    second: Background Full_39
+  - first:
+      213: -1021822250479904933
+    second: Background Full_40
+  - first:
+      213: -5532883866912193215
+    second: Background Full_41
+  - first:
+      213: 8672157961859889271
+    second: Background Full_42
+  - first:
+      213: 3666459349290912096
+    second: Background Full_43
+  - first:
+      213: 5430583519855351553
+    second: Background Full_44
+  - first:
+      213: -6746703461018668560
+    second: Background Full_45
+  - first:
+      213: 8654034634228816085
+    second: Background Full_46
+  - first:
+      213: 3277458829398403266
+    second: Background Full_47
+  - first:
+      213: -7704633304977674937
+    second: Background Full_48
+  - first:
+      213: 1753062268676772290
+    second: Background Full_49
+  - first:
+      213: 5804743682415877867
+    second: Background Full_50
+  - first:
+      213: -4515401164683081102
+    second: Background Full_51
+  - first:
+      213: 3124775526489636990
+    second: Background Full_52
+  - first:
+      213: 2167925065685504820
+    second: Background Full_53
+  - first:
+      213: -8442927666387435555
+    second: Background Full_54
+  - first:
+      213: -3186746853397242854
+    second: Background Full_55
+  - first:
+      213: 5601789375216390848
+    second: Background Full_56
+  - first:
+      213: -7861165703019706841
+    second: Background Full_57
+  - first:
+      213: 4614910225977850857
+    second: Background Full_58
+  - first:
+      213: 2031728178147167539
+    second: Background Full_59
+  - first:
+      213: 432700594902397945
+    second: Background Full_60
+  - first:
+      213: -8569202589315296762
+    second: Background Full_61
+  - first:
+      213: 6177603427846278104
+    second: Background Full_62
+  - first:
+      213: -9047061432736345898
+    second: Background Full_63
+  - first:
+      213: 4922819965661690965
+    second: Background Full_64
+  - first:
+      213: 6722100270638336253
+    second: Background Full_65
+  - first:
+      213: 2805226455712914926
+    second: Background Full_66
+  - first:
+      213: -2508202131157071067
+    second: Background Full_67
+  - first:
+      213: -3837569022879389328
+    second: Background Full_68
+  - first:
+      213: 6046129285741423740
+    second: Background Full_69
+  - first:
+      213: -8376226317119631519
+    second: Background Full_70
+  - first:
+      213: 4899988189484057349
+    second: Background Full_71
+  - first:
+      213: 4678284181489174015
+    second: Background Full_72
+  - first:
+      213: -8976857451166596280
+    second: Background Full_73
+  - first:
+      213: -7595017366428383464
+    second: Background Full_74
+  - first:
+      213: 2280220988606350568
+    second: Background Full_75
+  - first:
+      213: 8219717303781145482
+    second: Background Full_76
+  - first:
+      213: -2944712896032922696
+    second: Background Full_77
+  - first:
+      213: -960351513456457470
+    second: Background Full_78
+  - first:
+      213: 4554432859919197016
+    second: Background Full_79
+  - first:
+      213: 9055136139659348546
+    second: Background Full_80
+  - first:
+      213: -8925239654197862116
+    second: Background Full_81
+  - first:
+      213: 7711485898647830079
+    second: Background Full_82
+  - first:
+      213: -5897989346541826968
+    second: Background Full_83
+  - first:
+      213: -4969672631952076031
+    second: Background Full_84
+  - first:
+      213: 501707605269881132
+    second: Background Full_85
+  - first:
+      213: 7796135103384185836
+    second: Background Full_86
+  - first:
+      213: 636826749364572883
+    second: Background Full_87
+  - first:
+      213: -574887263275524845
+    second: Background Full_88
+  - first:
+      213: -5071736266102191156
+    second: Background Full_89
+  - first:
+      213: 2020439715024051539
+    second: Background Full_90
+  - first:
+      213: -27365904846339166
+    second: Background Full_91
+  - first:
+      213: 8891566055289475651
+    second: Background Full_92
+  - first:
+      213: -7975208409747995078
+    second: Background Full_93
+  - first:
+      213: 4990577697365782678
+    second: Background Full_94
+  - first:
+      213: 3238425630876531287
+    second: Background Full_95
+  - first:
+      213: -2717741808861412463
+    second: Background Full_96
+  - first:
+      213: -2794797894323973342
+    second: Background Full_97
+  - first:
+      213: -6927203311867200472
+    second: Background Full_98
+  - first:
+      213: 4629812132064243950
+    second: Background Full_99
+  - first:
+      213: -8761792384270616972
+    second: Background Full_100
+  - first:
+      213: 6598464432577089786
+    second: Background Full_101
+  - first:
+      213: -222928285016375155
+    second: Background Full_102
+  - first:
+      213: 3669062380094499582
+    second: Background Full_103
+  - first:
+      213: -1250970281073859758
+    second: Background Full_104
+  - first:
+      213: -7958418438381135831
+    second: Background Full_105
+  - first:
+      213: 8934341448435832786
+    second: Background Full_106
+  - first:
+      213: -2708186309730444173
+    second: Background Full_107
+  - first:
+      213: -23737321421047058
+    second: Background Full_108
+  - first:
+      213: -604374239886520934
+    second: Background Full_109
+  - first:
+      213: -6949819958791265015
+    second: Background Full_110
+  - first:
+      213: -6402481730567781904
+    second: Background Full_111
+  - first:
+      213: 5063492763362519365
+    second: Background Full_112
+  - first:
+      213: -2423004510746240823
+    second: Background Full_113
+  - first:
+      213: -8112965339807414209
+    second: Background Full_114
+  - first:
+      213: 6930830837722824092
+    second: Background Full_115
+  - first:
+      213: -6285436502932100546
+    second: Background Full_116
+  - first:
+      213: -8924894719855332804
+    second: Background Full_117
+  - first:
+      213: 4682047874774740364
+    second: Background Full_118
+  - first:
+      213: -9220000882156699612
+    second: Background Full_119
+  - first:
+      213: 7336332299593566121
+    second: Background Full_120
+  - first:
+      213: -7444818895882629354
+    second: Background Full_121
+  - first:
+      213: -5690835778503733738
+    second: Background Full_122
+  - first:
+      213: -2868262920071394592
+    second: Background Full_123
+  - first:
+      213: -8934277139947481782
+    second: Background Full_124
+  - first:
+      213: -6953326661807467272
+    second: Background Full_125
+  - first:
+      213: 9044508285077711015
+    second: Background Full_126
+  - first:
+      213: -3032815693170306000
+    second: Background Full_127
+  - first:
+      213: 189346476609585794
+    second: Background Full_128
+  - first:
+      213: 7050844050034020174
+    second: Background Full_129
+  - first:
+      213: 4072502243266225828
+    second: Background Full_130
+  - first:
+      213: 2078770001098378151
+    second: Background Full_131
+  - first:
+      213: 5281485444577535171
+    second: Background Full_132
+  - first:
+      213: 2239329299787743746
+    second: Background Full_133
+  - first:
+      213: -5683225327884932402
+    second: Background Full_134
+  - first:
+      213: -89044290818849457
+    second: Background Full_135
+  - first:
+      213: 4235158705760024334
+    second: Background Full_136
+  - first:
+      213: 1613520378552127467
+    second: Background Full_137
+  - first:
+      213: -8793470222294515817
+    second: Background Full_138
+  - first:
+      213: -6602680523324516508
+    second: Background Full_139
+  - first:
+      213: 5172733921234277033
+    second: Background Full_140
+  - first:
+      213: 5705122051793520428
+    second: Background Full_141
+  - first:
+      213: 8039299877839256949
+    second: Background Full_142
+  - first:
+      213: -1474969019848656593
+    second: Background Full_143
+  - first:
+      213: 231213626567319182
+    second: Background Full_144
+  - first:
+      213: -4819539236202996848
+    second: Background Full_145
+  - first:
+      213: -4489705583123354762
+    second: Background Full_146
+  - first:
+      213: -5718647392802971370
+    second: Background Full_147
+  - first:
+      213: 6562922306723192173
+    second: Background Full_148
+  - first:
+      213: -7685523502904665603
+    second: Background Full_149
+  - first:
+      213: 3041435758528943326
+    second: Background Full_150
+  - first:
+      213: -2891630025885233253
+    second: Background Full_151
+  - first:
+      213: -2666389045678467572
+    second: Background Full_152
+  - first:
+      213: 659359697730021922
+    second: Background Full_153
+  - first:
+      213: 2592920889872576273
+    second: Background Full_154
+  - first:
+      213: 7424955197731283275
+    second: Background Full_155
+  - first:
+      213: 7224519285769176594
+    second: Background Full_156
+  - first:
+      213: -8049205780317864809
+    second: Background Full_157
+  - first:
+      213: 2834661788960098582
+    second: Background Full_158
+  - first:
+      213: -2809626728638957444
+    second: Background Full_159
+  - first:
+      213: 8922710173218928440
+    second: Background Full_160
+  - first:
+      213: 8695355334711458804
+    second: Background Full_161
+  - first:
+      213: -6330050507370952300
+    second: Background Full_162
+  - first:
+      213: -8266735672028253902
+    second: Background Full_163
+  - first:
+      213: 6416981604437559017
+    second: Background Full_164
+  - first:
+      213: 2284395940937807204
+    second: Background Full_165
+  - first:
+      213: 2883257819835500536
+    second: Background Full_166
+  - first:
+      213: 575545369334124328
+    second: Background Full_167
+  - first:
+      213: -5805785599170179703
+    second: Background Full_168
+  - first:
+      213: -5245570125810977623
+    second: Background Full_169
+  - first:
+      213: 6967370978736641838
+    second: Background Full_170
+  - first:
+      213: -3966194236352286688
+    second: Background Full_171
+  - first:
+      213: -876248852761282721
+    second: Background Full_172
+  - first:
+      213: 2648051062421515199
+    second: Background Full_173
+  - first:
+      213: -835117337900313480
+    second: Background Full_174
+  - first:
+      213: -4049080922560719806
+    second: Background Full_175
+  - first:
+      213: 1281963152854344369
+    second: Background Full_176
+  - first:
+      213: 261014169870164307
+    second: Background Full_177
+  - first:
+      213: -764955842588186754
+    second: Background Full_178
+  - first:
+      213: 5243385822612810475
+    second: Background Full_179
+  - first:
+      213: -5774781705150040945
+    second: Background Full_180
+  - first:
+      213: -3486362882299414675
+    second: Background Full_181
+  - first:
+      213: -746631053202898459
+    second: Background Full_182
+  - first:
+      213: -7377459908751679713
+    second: Background Full_183
+  - first:
+      213: -4390396381590076616
+    second: Background Full_184
+  - first:
+      213: 8874749487635954354
+    second: Background Full_185
+  - first:
+      213: 4827850369123144587
+    second: Background Full_186
+  - first:
+      213: -225285404995679946
+    second: Background Full_187
+  - first:
+      213: -4093159886409764898
+    second: Background Full_188
+  - first:
+      213: -7845586907792241018
+    second: Background Full_189
+  - first:
+      213: 8478811352041057210
+    second: Background Full_190
+  - first:
+      213: 5836576192587380474
+    second: Background Full_191
+  - first:
+      213: -116035529616769269
+    second: Background Full_192
+  - first:
+      213: -7702646690198400720
+    second: Background Full_193
+  - first:
+      213: 6622793995251529148
+    second: Background Full_194
+  - first:
+      213: 1033922822774130654
+    second: Background Full_195
+  - first:
+      213: -4768860778878334172
+    second: Background Full_196
+  - first:
+      213: -8344721353662431117
+    second: Background Full_197
+  - first:
+      213: 3942373713743611683
+    second: Background Full_198
+  - first:
+      213: -2169953535785305493
+    second: Background Full_199
+  - first:
+      213: 5337777513668144580
+    second: Background Full_200
+  - first:
+      213: -3914030749245847063
+    second: Background Full_201
+  - first:
+      213: 1743000943064124290
+    second: Background Full_202
+  - first:
+      213: 4728755408602154464
+    second: Background Full_203
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Background Full_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3000
+        height: 2180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b59e23a1c044880800000000000000
+      internalID: -8627757679472190669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_1
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 2201
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfb09e6e4a963790800000000000000
+      internalID: -7550678063586951202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2255
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19cdefb38c98fb40800000000000000
+      internalID: 5474297436743518495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_3
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2332
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dba419c3fb91b580800000000000000
+      internalID: -8813091524434416679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_4
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 2368
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc945271231dbda0800000000000000
+      internalID: -5927560500176708404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_5
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 2268
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe27d1e5296050f0800000000000000
+      internalID: -1130287895046312257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_6
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2316
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3425001b66ddfc2d0800000000000000
+      internalID: -3256140572439588285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_7
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2220
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c244b4da2f4d4550800000000000000
+      internalID: 6146656111806399171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_8
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2209
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728d6945655cb31f0800000000000000
+      internalID: -1064039912365959129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_9
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2298
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd80398da8643b50800000000000000
+      internalID: 6571992850780687861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_10
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2178
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f2c290df97779e0800000000000000
+      internalID: -1623695012956196972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_11
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2393
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4cb858c7d4bf0a0800000000000000
+      internalID: -6846793611274894154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_12
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2201
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a49988f01c9fe1a0800000000000000
+      internalID: -6778027317466131296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_13
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2365
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a939278fb71e8ad0800000000000000
+      internalID: -2698193015374530140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_14
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 2352
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4b6ddbce85939b0800000000000000
+      internalID: -5099947329199885146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_15
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 2287
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284298c3c35ffab70800000000000000
+      internalID: 8912611826651964546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_16
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 2266
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f13c24bab24bb20800000000000000
+      internalID: 3149190053998305169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_17
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2305
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b8882613ab1f570800000000000000
+      internalID: 8498778693094116142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_18
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2237
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf355ce56bda557d0800000000000000
+      internalID: -2930244983748996100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_19
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2229
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5b9e9ef30990c30800000000000000
+      internalID: 4326147521247819260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_20
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2215
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0b0ab5c15876fb0800000000000000
+      internalID: -4654605333021282068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_21
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 2390
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c50974268382f4b0800000000000000
+      internalID: -5408115590357776956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_22
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 2259
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6517d2f4f949fe0800000000000000
+      internalID: -1183145639677962591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_23
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 2279
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3862a9b0f3c4f4fe0800000000000000
+      internalID: -1202658741823330685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_24
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 2217
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e40031577655e300800000000000000
+      internalID: 280725622243722464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_25
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2250
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecd240768e0ee580800000000000000
+      internalID: -8796077051636163351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_26
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2314
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9ffa6904e3b7dc0800000000000000
+      internalID: -3640247426671969814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_27
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2304
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f365af70b70a5a0800000000000000
+      internalID: -6512069786982793401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_28
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2296
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfabb6e208ed8ec0800000000000000
+      internalID: -3562936631021555773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_29
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2269
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0ed9cfe2b56f570800000000000000
+      internalID: 8500081604073218248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_30
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2372
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c29df81edb8c53c0800000000000000
+      internalID: -4369463752437951804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_31
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 2235
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f897e3188939200800000000000000
+      internalID: 185659690518679356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_32
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 2357
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368e21bf6dc36a4f0800000000000000
+      internalID: -817899388288178077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_33
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 2330
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ae3ca436c97c9d0800000000000000
+      internalID: -2754060696843720049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_34
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 2240
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde898e44fffb7830800000000000000
+      internalID: 4070128113014116060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_35
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 2227
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481cddcb19e94fe40800000000000000
+      internalID: 5689346578051875204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_36
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2410
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711040ecac3fcbce0800000000000000
+      internalID: -1387966532771643113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_37
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2329
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af970c7eb16105350800000000000000
+      internalID: 6003322612392950266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_38
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2249
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08606039f4194e9d0800000000000000
+      internalID: -2745910101834070400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_39
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 2400
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8889c8d43c529ef0800000000000000
+      internalID: -102918459430958963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_40
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 2346
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b571e88b312c1d1f0800000000000000
+      internalID: -1021822250479904933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_41
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 2320
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1458531007f3733b0800000000000000
+      internalID: -5532883866912193215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_42
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 2192
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778fbb028b1b95870800000000000000
+      internalID: 8672157961859889271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_43
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 2295
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06905e93a51e1e230800000000000000
+      internalID: 3666459349290912096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_44
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 2254
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107911850fe4d5b40800000000000000
+      internalID: 5430583519855351553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_45
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 2175
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f17511a2f4ee52a0800000000000000
+      internalID: -6746703461018668560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_46
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2375
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8d22716ae491870800000000000000
+      internalID: 8654034634228816085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_47
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2353
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8624cc07fdb7d20800000000000000
+      internalID: 3277458829398403266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_48
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2314
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d692c74d4a31590800000000000000
+      internalID: -7704633304977674937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_49
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2304
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c19e9168d0245810800000000000000
+      internalID: 1753062268676772290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_50
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2375
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee5792df979e8050800000000000000
+      internalID: 5804743682415877867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_51
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2366
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a0ea870921651c0800000000000000
+      internalID: -4515401164683081102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_52
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2242
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70cf3b19ce6d5b20800000000000000
+      internalID: 3124775526489636990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_53
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2345
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43399df6c54061e10800000000000000
+      internalID: 2167925065685504820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_54
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2291
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfb8ac1502b4da80800000000000000
+      internalID: -8442927666387435555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_55
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2280
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cd926fe9666c3d0800000000000000
+      internalID: -3186746853397242854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_56
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2202
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c29458d1cd8dbd40800000000000000
+      internalID: 5601789375216390848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_57
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2179
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726c60f717787e290800000000000000
+      internalID: -7861165703019706841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_58
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 2342
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb3ab156647b0040800000000000000
+      internalID: 4614910225977850857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_59
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 2308
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d0d927306223c10800000000000000
+      internalID: 2031728178147167539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_60
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2219
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3f14506e2410600800000000000000
+      internalID: 432700594902397945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_61
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2173
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602118785a3141980800000000000000
+      internalID: -8569202589315296762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_62
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 2331
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db430856914bb550800000000000000
+      internalID: 6177603427846278104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_63
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 2320
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d01d907f81627280800000000000000
+      internalID: -9047061432736345898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_64
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 2289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c37723dae515440800000000000000
+      internalID: 4922819965661690965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_65
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2354
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df884f7b492b94d50800000000000000
+      internalID: 6722100270638336253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_66
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2216
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeddb47499a2ee620800000000000000
+      internalID: 2805226455712914926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_67
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 2413
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b41836373113dd0800000000000000
+      internalID: -2508202131157071067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_68
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 2258
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0792b365e473ebac0800000000000000
+      internalID: -3837569022879389328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_69
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 2370
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c24b63d8a28e350800000000000000
+      internalID: 6046129285741423740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_70
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 2282
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f4ec13b8aa1cb80800000000000000
+      internalID: -8376226317119631519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_71
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 2188
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5038ecd0c41400440800000000000000
+      internalID: 4899988189484057349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_72
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 2336
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5cdfb2daa9ce040800000000000000
+      internalID: 4678284181489174015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_73
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 2251
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84385e7a5bbcb6380800000000000000
+      internalID: -8976857451166596280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_74
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 2241
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8170d1302f3199690800000000000000
+      internalID: -7595017366428383464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_75
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 2179
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4854378e8f4af10800000000000000
+      internalID: 2280220988606350568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_76
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2400
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bb10e765d421270800000000000000
+      internalID: 8219717303781145482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_77
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2322
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3227a09374227d0800000000000000
+      internalID: -2944712896032922696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_78
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2294
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2094becf2652ca2f0800000000000000
+      internalID: -960351513456457470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_79
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2393
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853a9d04e88943f30800000000000000
+      internalID: 4554432859919197016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_80
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2332
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a8235c75e4aad70800000000000000
+      internalID: 9055136139659348546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_81
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2274
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c116e4c82dd232480800000000000000
+      internalID: -8925239654197862116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_82
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2234
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e765f4193b40b60800000000000000
+      internalID: 7711485898647830079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_83
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 2337
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c065e20f1262ea0800000000000000
+      internalID: -5897989346541826968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_84
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2376
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103148a521d280bb0800000000000000
+      internalID: -4969672631952076031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_85
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2350
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c212939a86c66f600800000000000000
+      internalID: 501707605269881132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_86
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2322
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebea22229f613c60800000000000000
+      internalID: 7796135103384185836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_87
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 2222
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d29753fd8676d800800000000000000
+      internalID: 636826749364572883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_88
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 2379
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dd09674179508f0800000000000000
+      internalID: -574887263275524845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_89
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 2249
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb4388bcb29d99b0800000000000000
+      internalID: -5071736266102191156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_90
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 2185
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d9910573b0a0c10800000000000000
+      internalID: 2020439715024051539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_91
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2410
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a34da2cad6ce9ff0800000000000000
+      internalID: -27365904846339166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_92
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2359
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342537eb730356b70800000000000000
+      internalID: 8891566055289475651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_93
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2284
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36434fa43e525190800000000000000
+      internalID: -7975208409747995078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_94
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2221
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690797b79f7124540800000000000000
+      internalID: 4990577697365782678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_95
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2399
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a7aef04f231fc20800000000000000
+      internalID: 3238425630876531287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_96
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2311
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193869b5934a84ad0800000000000000
+      internalID: -2717741808861412463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_97
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2206
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2235fc16f12e639d0800000000000000
+      internalID: -2794797894323973342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_98
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2357
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cfe3d2a41addf90800000000000000
+      internalID: -6927203311867200472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_99
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2238
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0bb74ba95604040800000000000000
+      internalID: 4629812132064243950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_100
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2196
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476b3db9f3cd76680800000000000000
+      internalID: -8761792384270616972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_101
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2326
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af09ec6f074729b50800000000000000
+      internalID: 6598464432577089786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_102
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2277
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d804639e7eff7ecf0800000000000000
+      internalID: -222928285016375155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_103
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2268
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa28409bc02be230800000000000000
+      internalID: 3669062380094499582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_104
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2177
+        width: 109
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253a5044829a3aee0800000000000000
+      internalID: -1250970281073859758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_105
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2260
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9289f5688940e8190800000000000000
+      internalID: -7958418438381135831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_106
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2233
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7111016382dfb70800000000000000
+      internalID: 8934341448435832786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_107
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2346
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cd0fe56e69a6ad0800000000000000
+      internalID: -2708186309730444173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_108
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2305
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea77cc280babaff0800000000000000
+      internalID: -23737321421047058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_109
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2393
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dca28b4d4dc97f0800000000000000
+      internalID: -604374239886520934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_110
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 2379
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905a357b1974d8f90800000000000000
+      internalID: -6949819958791265015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_111
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 2288
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f14490b9c0d527a0800000000000000
+      internalID: -6402481730567781904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_112
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2412
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549ebfa37d3254640800000000000000
+      internalID: 5063492763362519365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_113
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2260
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c81dcf2c32cf5ed0800000000000000
+      internalID: -2423004510746240823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_114
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2238
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3809bdf105f86f80800000000000000
+      internalID: -8112965339807414209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_115
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2177
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dbac00de14f2060800000000000000
+      internalID: 6930830837722824092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_116
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2370
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a65706dc4a5c8a0800000000000000
+      internalID: -6285436502932100546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_117
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2183
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c327345d987642480800000000000000
+      internalID: -8924894719855332804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_118
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 2409
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d225d4cb9f9f040800000000000000
+      internalID: 4682047874774740364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_119
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 2396
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420034e1c0afb0080800000000000000
+      internalID: -9220000882156699612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_120
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 2384
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7cf7f5b53efc560800000000000000
+      internalID: 7336332299593566121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_121
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 2390
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fccc598a0bea890800000000000000
+      internalID: -7444818895882629354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_122
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 2305
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e8333c2071601b0800000000000000
+      internalID: -5690835778503733738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_123
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 2220
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea48b62212e138d0800000000000000
+      internalID: -2868262920071394592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_124
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 2167
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45998ce642130480800000000000000
+      internalID: -8934277139947481782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_125
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2380
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f496bbcd32d08f90800000000000000
+      internalID: -6953326661807467272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_126
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2366
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8622c8d5c848d70800000000000000
+      internalID: 9044508285077711015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_127
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2371
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0349a53123649e5d0800000000000000
+      internalID: -3032815693170306000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_128
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28249c50e91b0a200800000000000000
+      internalID: 189346476609585794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_129
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 2322
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f44f87e41a9d160800000000000000
+      internalID: 7050844050034020174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_130
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 2291
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a66dd4963f648830800000000000000
+      internalID: 4072502243266225828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_131
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 2387
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab053d5d4649dc10800000000000000
+      internalID: 2078770001098378151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_132
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 2250
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4a072870b9b4940800000000000000
+      internalID: 5281485444577535171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_133
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 2177
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20209f83222b31f10800000000000000
+      internalID: 2239329299787743746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_134
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 2398
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca6ae0eca02121b0800000000000000
+      internalID: -5683225327884932402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_135
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 2243
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45477470b6a3cef0800000000000000
+      internalID: -89044290818849457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_136
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 2205
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07ba30776e46ca30800000000000000
+      internalID: 4235158705760024334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_137
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 2188
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef04794c30646610800000000000000
+      internalID: 1613520378552127467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_138
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 2313
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ff8213c6157f580800000000000000
+      internalID: -8793470222294515817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_139
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2349
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4671ad9eb019e54a0800000000000000
+      internalID: -6602680523324516508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_140
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2336
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a258c4581e39c740800000000000000
+      internalID: 5172733921234277033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_141
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2331
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c278661774aac2f40800000000000000
+      internalID: 5705122051793520428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_142
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2222
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d337515a4519f60800000000000000
+      internalID: 8039299877839256949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_143
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 2303
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29f63dbd7bd78be0800000000000000
+      internalID: -1474969019848656593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_144
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 2278
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e56ce719f653300800000000000000
+      internalID: 231213626567319182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_145
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 2259
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b1015899e8d1db0800000000000000
+      internalID: -4819539236202996848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_146
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2381
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b28d34f8c51b1c0800000000000000
+      internalID: -4489705583123354762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_147
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2323
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611e344be7843a0b0800000000000000
+      internalID: -5718647392802971370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_148
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2238
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d19bce01f241b50800000000000000
+      internalID: 6562922306723192173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_149
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2213
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df993700819875590800000000000000
+      internalID: -7685523502904665603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_150
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2177
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4d94a45b9553a20800000000000000
+      internalID: 3041435758528943326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_151
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 2293
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fc14ddfcdded7d0800000000000000
+      internalID: -2891630025885233253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_152
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 2317
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0697534a451ffad0800000000000000
+      internalID: -2666389045678467572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_153
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 2258
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a2862d624862900800000000000000
+      internalID: 659359697730021922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_154
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2307
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f6b8bbfc7ebf320800000000000000
+      internalID: 2592920889872576273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_155
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 2359
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41a6f9c96dba0760800000000000000
+      internalID: 7424955197731283275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_156
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 2179
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2160b356306a24460800000000000000
+      internalID: 7224519285769176594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_157
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 2290
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cf1244df97b4090800000000000000
+      internalID: -8049205780317864809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_158
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 2278
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619075dd0edb65720800000000000000
+      internalID: 2834661788960098582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_159
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 2246
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78380850633209d0800000000000000
+      internalID: -2809626728638957444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_160
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 2251
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8377a74c0a5d3db70800000000000000
+      internalID: 8922710173218928440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_161
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 2234
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb36416b9b1ca870800000000000000
+      internalID: 8695355334711458804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_162
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 2176
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4998fd10a942728a0800000000000000
+      internalID: -6330050507370952300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_163
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 2270
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231b4b094b7a64d80800000000000000
+      internalID: -8266735672028253902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_164
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2311
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e687b645c2bd0950800000000000000
+      internalID: 6416981604437559017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_165
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 2376
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46531f9410ec3bf10800000000000000
+      internalID: 2284395940937807204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_166
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 2328
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7892306b3630820800000000000000
+      internalID: 2883257819835500536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_167
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 2255
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f084bc67fbcf700800000000000000
+      internalID: 575545369334124328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_168
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d026702c4bd6fa0800000000000000
+      internalID: -5805785599170179703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_169
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2241
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4b2a643cdf337b0800000000000000
+      internalID: -5245570125810977623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_170
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2367
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2796fd8df211b060800000000000000
+      internalID: 6967370978736641838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_171
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2272
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02035081b5f35f8c0800000000000000
+      internalID: -3966194236352286688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_172
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 2403
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57f15c9f40f6d3f0800000000000000
+      internalID: -876248852761282721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_173
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 2375
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbeaba4964cfb420800000000000000
+      internalID: 2648051062421515199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_174
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 2351
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8749ea0b4311964f0800000000000000
+      internalID: -835117337900313480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_175
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 2177
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24415f79a56cec7c0800000000000000
+      internalID: -4049080922560719806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_176
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2170
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2e50502b27ac110800000000000000
+      internalID: 1281963152854344369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_177
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2321
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351647c210f4f9300800000000000000
+      internalID: 261014169870164307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_178
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2299
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77ebadc6b45265f0800000000000000
+      internalID: -764955842588186754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_179
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2209
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beae72100af34c840800000000000000
+      internalID: 5243385822612810475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_180
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 2216
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f847b11a2aadbdfa0800000000000000
+      internalID: -5774781705150040945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_181
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2289
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67bf6a1e63fd9fc0800000000000000
+      internalID: -3486362882299414675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_182
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2185
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1c09f430f63a5f0800000000000000
+      internalID: -746631053202898459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_183
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2169
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f9b2aec4ffd9990800000000000000
+      internalID: -7377459908751679713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_184
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2312
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833c92490cd2213c0800000000000000
+      internalID: -4390396381590076616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_185
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 2336
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bafe1973a1792b70800000000000000
+      internalID: 8874749487635954354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_186
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2359
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83d258e458fff240800000000000000
+      internalID: 4827850369123144587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_187
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 2344
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63907262e10afdcf0800000000000000
+      internalID: -225285404995679946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_188
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 2347
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfeaa115cc2237c0800000000000000
+      internalID: -4093159886409764898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_189
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 2243
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e869a6640ee1390800000000000000
+      internalID: -7845586907792241018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_190
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 2342
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbe4f3800acaa570800000000000000
+      internalID: 8478811352041057210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_191
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 2227
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af63ca7af1faff050800000000000000
+      internalID: 5836576192587380474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_192
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2171
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f3ed3fc42c36ef0800000000000000
+      internalID: -116035529616769269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_193
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 2250
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031d26845a3ba1590800000000000000
+      internalID: -7702646690198400720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_194
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2265
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5be83bc04e8eb50800000000000000
+      internalID: 6622793995251529148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_195
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2198
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed70f90545b395e00800000000000000
+      internalID: 1033922822774130654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_196
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 2297
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b0aab536a91ddb0800000000000000
+      internalID: -4768860778878334172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_197
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 2301
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370855d1428913c80800000000000000
+      internalID: -8344721353662431117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_198
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 2189
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327868b410026b630800000000000000
+      internalID: 3942373713743611683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_199
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2222
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6af96091c6c2e1e0800000000000000
+      internalID: -2169953535785305493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_200
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 2175
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cde1403e58931a40800000000000000
+      internalID: 5337777513668144580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_201
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 2249
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9ce3f55c19ea9c0800000000000000
+      internalID: -3914030749245847063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_202
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 2193
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b02867f12603810800000000000000
+      internalID: 1743000943064124290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Full_203
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e540777df9ef9140800000000000000
+      internalID: 4728755408602154464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Background Full_0: -8627757679472190669
+      Background Full_1: -7550678063586951202
+      Background Full_10: -1623695012956196972
+      Background Full_100: -8761792384270616972
+      Background Full_101: 6598464432577089786
+      Background Full_102: -222928285016375155
+      Background Full_103: 3669062380094499582
+      Background Full_104: -1250970281073859758
+      Background Full_105: -7958418438381135831
+      Background Full_106: 8934341448435832786
+      Background Full_107: -2708186309730444173
+      Background Full_108: -23737321421047058
+      Background Full_109: -604374239886520934
+      Background Full_11: -6846793611274894154
+      Background Full_110: -6949819958791265015
+      Background Full_111: -6402481730567781904
+      Background Full_112: 5063492763362519365
+      Background Full_113: -2423004510746240823
+      Background Full_114: -8112965339807414209
+      Background Full_115: 6930830837722824092
+      Background Full_116: -6285436502932100546
+      Background Full_117: -8924894719855332804
+      Background Full_118: 4682047874774740364
+      Background Full_119: -9220000882156699612
+      Background Full_12: -6778027317466131296
+      Background Full_120: 7336332299593566121
+      Background Full_121: -7444818895882629354
+      Background Full_122: -5690835778503733738
+      Background Full_123: -2868262920071394592
+      Background Full_124: -8934277139947481782
+      Background Full_125: -6953326661807467272
+      Background Full_126: 9044508285077711015
+      Background Full_127: -3032815693170306000
+      Background Full_128: 189346476609585794
+      Background Full_129: 7050844050034020174
+      Background Full_13: -2698193015374530140
+      Background Full_130: 4072502243266225828
+      Background Full_131: 2078770001098378151
+      Background Full_132: 5281485444577535171
+      Background Full_133: 2239329299787743746
+      Background Full_134: -5683225327884932402
+      Background Full_135: -89044290818849457
+      Background Full_136: 4235158705760024334
+      Background Full_137: 1613520378552127467
+      Background Full_138: -8793470222294515817
+      Background Full_139: -6602680523324516508
+      Background Full_14: -5099947329199885146
+      Background Full_140: 5172733921234277033
+      Background Full_141: 5705122051793520428
+      Background Full_142: 8039299877839256949
+      Background Full_143: -1474969019848656593
+      Background Full_144: 231213626567319182
+      Background Full_145: -4819539236202996848
+      Background Full_146: -4489705583123354762
+      Background Full_147: -5718647392802971370
+      Background Full_148: 6562922306723192173
+      Background Full_149: -7685523502904665603
+      Background Full_15: 8912611826651964546
+      Background Full_150: 3041435758528943326
+      Background Full_151: -2891630025885233253
+      Background Full_152: -2666389045678467572
+      Background Full_153: 659359697730021922
+      Background Full_154: 2592920889872576273
+      Background Full_155: 7424955197731283275
+      Background Full_156: 7224519285769176594
+      Background Full_157: -8049205780317864809
+      Background Full_158: 2834661788960098582
+      Background Full_159: -2809626728638957444
+      Background Full_16: 3149190053998305169
+      Background Full_160: 8922710173218928440
+      Background Full_161: 8695355334711458804
+      Background Full_162: -6330050507370952300
+      Background Full_163: -8266735672028253902
+      Background Full_164: 6416981604437559017
+      Background Full_165: 2284395940937807204
+      Background Full_166: 2883257819835500536
+      Background Full_167: 575545369334124328
+      Background Full_168: -5805785599170179703
+      Background Full_169: -5245570125810977623
+      Background Full_17: 8498778693094116142
+      Background Full_170: 6967370978736641838
+      Background Full_171: -3966194236352286688
+      Background Full_172: -876248852761282721
+      Background Full_173: 2648051062421515199
+      Background Full_174: -835117337900313480
+      Background Full_175: -4049080922560719806
+      Background Full_176: 1281963152854344369
+      Background Full_177: 261014169870164307
+      Background Full_178: -764955842588186754
+      Background Full_179: 5243385822612810475
+      Background Full_18: -2930244983748996100
+      Background Full_180: -5774781705150040945
+      Background Full_181: -3486362882299414675
+      Background Full_182: -746631053202898459
+      Background Full_183: -7377459908751679713
+      Background Full_184: -4390396381590076616
+      Background Full_185: 8874749487635954354
+      Background Full_186: 4827850369123144587
+      Background Full_187: -225285404995679946
+      Background Full_188: -4093159886409764898
+      Background Full_189: -7845586907792241018
+      Background Full_19: 4326147521247819260
+      Background Full_190: 8478811352041057210
+      Background Full_191: 5836576192587380474
+      Background Full_192: -116035529616769269
+      Background Full_193: -7702646690198400720
+      Background Full_194: 6622793995251529148
+      Background Full_195: 1033922822774130654
+      Background Full_196: -4768860778878334172
+      Background Full_197: -8344721353662431117
+      Background Full_198: 3942373713743611683
+      Background Full_199: -2169953535785305493
+      Background Full_2: 5474297436743518495
+      Background Full_20: -4654605333021282068
+      Background Full_200: 5337777513668144580
+      Background Full_201: -3914030749245847063
+      Background Full_202: 1743000943064124290
+      Background Full_203: 4728755408602154464
+      Background Full_21: -5408115590357776956
+      Background Full_22: -1183145639677962591
+      Background Full_23: -1202658741823330685
+      Background Full_24: 280725622243722464
+      Background Full_25: -8796077051636163351
+      Background Full_26: -3640247426671969814
+      Background Full_27: -6512069786982793401
+      Background Full_28: -3562936631021555773
+      Background Full_29: 8500081604073218248
+      Background Full_3: -8813091524434416679
+      Background Full_30: -4369463752437951804
+      Background Full_31: 185659690518679356
+      Background Full_32: -817899388288178077
+      Background Full_33: -2754060696843720049
+      Background Full_34: 4070128113014116060
+      Background Full_35: 5689346578051875204
+      Background Full_36: -1387966532771643113
+      Background Full_37: 6003322612392950266
+      Background Full_38: -2745910101834070400
+      Background Full_39: -102918459430958963
+      Background Full_4: -5927560500176708404
+      Background Full_40: -1021822250479904933
+      Background Full_41: -5532883866912193215
+      Background Full_42: 8672157961859889271
+      Background Full_43: 3666459349290912096
+      Background Full_44: 5430583519855351553
+      Background Full_45: -6746703461018668560
+      Background Full_46: 8654034634228816085
+      Background Full_47: 3277458829398403266
+      Background Full_48: -7704633304977674937
+      Background Full_49: 1753062268676772290
+      Background Full_5: -1130287895046312257
+      Background Full_50: 5804743682415877867
+      Background Full_51: -4515401164683081102
+      Background Full_52: 3124775526489636990
+      Background Full_53: 2167925065685504820
+      Background Full_54: -8442927666387435555
+      Background Full_55: -3186746853397242854
+      Background Full_56: 5601789375216390848
+      Background Full_57: -7861165703019706841
+      Background Full_58: 4614910225977850857
+      Background Full_59: 2031728178147167539
+      Background Full_6: -3256140572439588285
+      Background Full_60: 432700594902397945
+      Background Full_61: -8569202589315296762
+      Background Full_62: 6177603427846278104
+      Background Full_63: -9047061432736345898
+      Background Full_64: 4922819965661690965
+      Background Full_65: 6722100270638336253
+      Background Full_66: 2805226455712914926
+      Background Full_67: -2508202131157071067
+      Background Full_68: -3837569022879389328
+      Background Full_69: 6046129285741423740
+      Background Full_7: 6146656111806399171
+      Background Full_70: -8376226317119631519
+      Background Full_71: 4899988189484057349
+      Background Full_72: 4678284181489174015
+      Background Full_73: -8976857451166596280
+      Background Full_74: -7595017366428383464
+      Background Full_75: 2280220988606350568
+      Background Full_76: 8219717303781145482
+      Background Full_77: -2944712896032922696
+      Background Full_78: -960351513456457470
+      Background Full_79: 4554432859919197016
+      Background Full_8: -1064039912365959129
+      Background Full_80: 9055136139659348546
+      Background Full_81: -8925239654197862116
+      Background Full_82: 7711485898647830079
+      Background Full_83: -5897989346541826968
+      Background Full_84: -4969672631952076031
+      Background Full_85: 501707605269881132
+      Background Full_86: 7796135103384185836
+      Background Full_87: 636826749364572883
+      Background Full_88: -574887263275524845
+      Background Full_89: -5071736266102191156
+      Background Full_9: 6571992850780687861
+      Background Full_90: 2020439715024051539
+      Background Full_91: -27365904846339166
+      Background Full_92: 8891566055289475651
+      Background Full_93: -7975208409747995078
+      Background Full_94: 4990577697365782678
+      Background Full_95: 3238425630876531287
+      Background Full_96: -2717741808861412463
+      Background Full_97: -2794797894323973342
+      Background Full_98: -6927203311867200472
+      Background Full_99: 4629812132064243950
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

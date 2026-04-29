@@ -1243,6 +1243,7 @@ MonoBehaviour:
   addPrefab: {fileID: 1337267815154920104, guid: cfaea8f296204354f941508ae45e689c, type: 3}
   appearancePosition: {fileID: 1091880402}
   spawnRateInSeconds: 4
+  correctOperations: 0
 --- !u!4 &732511868
 Transform:
   m_ObjectHideFlags: 0
@@ -1970,6 +1971,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 64
   LadleEnd: {fileID: 142853350}
+  canStir: 0
 --- !u!1 &1352974540
 GameObject:
   m_ObjectHideFlags: 0
@@ -2275,7 +2277,7 @@ SpriteRenderer:
   m_Size: {x: 2.98, y: 6.4312563}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1397828596
