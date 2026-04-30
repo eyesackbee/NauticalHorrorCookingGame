@@ -5,23 +5,44 @@ public class Bug : MonoBehaviour
     public float TopSpeed;
     public float BottomSpeed;
     private float Speed;
+    public int BugNumber;
+    private InsectUIManager UIManager;
+    [HideInInspector] public float direction;
+    [HideInInspector] public bool flipX = false;
+    private SpriteRenderer spriteRenderer;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         Speed = Random.Range(BottomSpeed, TopSpeed);
-        float Rotz = Random.Range(-20f, 20f);
-        transform.Rotate(0, 0, Rotz);
+        //float Rotz = Random.Range(-20f, 20f);
+        //float Rotz = transform.eulerAngles.z;
+        //if(transform.position.x < 0 && Rotz > 0)
+        //{
+        //    Rotz *= -1;
+        //}
+        //else if(transform.position.x > 0 && Rotz > 0)
+        //{
+        //    Rotz *= -1;
+        //}
+        //transform.Rotate(0, 0, Rotz);
+        UIManager = FindFirstObjectByType<InsectUIManager>();
+        spriteRenderer = transform.GetChild(0).GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        transform.Translate(-Speed*Time.deltaTime, 0, 0);
+        transform.Translate(direction * Speed*Time.deltaTime, 0, 0);
+    }
+    public void Flip()
+    {
+        spriteRenderer.flipX = true;
     }
 
     private void OnMouseDown()
     {
+        UIManager.UpdatebugScores(BugNumber);
         Destroy(gameObject);
     }
 
