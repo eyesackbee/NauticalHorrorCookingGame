@@ -11,6 +11,11 @@ public class Bug : MonoBehaviour
     [HideInInspector] public bool flipX = false;
     private SpriteRenderer spriteRenderer;
 
+    private void Awake()
+    {
+        spriteRenderer = GetComponentInChildren<SpriteRenderer>();
+    }
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -27,7 +32,7 @@ public class Bug : MonoBehaviour
         //}
         //transform.Rotate(0, 0, Rotz);
         UIManager = FindFirstObjectByType<InsectUIManager>();
-        spriteRenderer = transform.GetChild(0).GetComponent<SpriteRenderer>();
+
     }
 
     // Update is called once per frame

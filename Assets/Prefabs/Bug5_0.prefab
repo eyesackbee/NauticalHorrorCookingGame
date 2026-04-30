@@ -138,8 +138,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -8.594817, y: -1.1067603, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 0.6, y: 0.6, z: 0.6}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 8300318478913238780}
   m_Father: {fileID: 0}
@@ -159,7 +159,8 @@ MonoBehaviour:
   TopSpeed: 30
   BottomSpeed: 1
   BugNumber: 4
-  UIManager: {fileID: 0}
+  direction: 0
+  flipX: 0
 --- !u!70 &5852891558907021867
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

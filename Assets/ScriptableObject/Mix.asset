@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: Mix
   m_EditorClassIdentifier: 
   ingredientName: Mix
-  ingredientPrefab: {fileID: 0}
+  ingredientPrefab: {fileID: 6436286678200043376, guid: b09d05cd59af83046a29094050bca57d, type: 3}
   actionType: 0
+  CompletedOperation: 0

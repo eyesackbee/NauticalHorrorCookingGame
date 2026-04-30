@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 6b3d04b56e10c3c40b38e9606bed18ef
+guid: 250b7bc44c2eac54986041ae943fef05
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2856553726448347233
-    second: Carrot Particle_0
+      213: 3811568038910027406
+    second: Side_0
+  - first:
+      213: -2142612072266904332
+    second: Side_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Carrot Particle_0
+      name: Side_0
       rect:
         serializedVersion: 2
-        x: 273
-        y: 216
-        width: 228
-        height: 221
+        x: 0
+        y: 0
+        width: 948
+        height: 1916
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +118,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 168a5c2ca7484a720800000000000000
-      internalID: 2856553726448347233
+      spriteID: e86e674dfe865e430800000000000000
+      internalID: 3811568038910027406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc411d1ca9e342e0800000000000000
+      internalID: -2142612072266904332
       vertices: []
       indices: 
       edges: []
@@ -135,7 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Carrot Particle_0: 2856553726448347233
+      Side_0: 3811568038910027406
+      Side_1: -2142612072266904332
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
