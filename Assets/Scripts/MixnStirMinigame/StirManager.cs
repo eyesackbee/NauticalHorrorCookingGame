@@ -54,10 +54,11 @@ public class StirManager : MonoBehaviour
 
     }
 
+    
     // Update is called once per frame
     void Update()
     {
-        if (stirPointsList.Count >= 9 && canStir)
+        if (stirPointsList.Count >= 5 && canStir)
         {
             print("stir speed " + speedOfStir);
             speedOfStir = 0;
