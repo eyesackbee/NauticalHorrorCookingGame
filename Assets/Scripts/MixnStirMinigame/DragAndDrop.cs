@@ -7,7 +7,7 @@ public class DragAndDrop : MonoBehaviour
 {
     public LayerMask layerMask;
 
-    private bool dragging = false;
+    [HideInInspector]public bool dragging = false;
 
     private Transform selectedObject;
     private Vector3 worldPosition;
@@ -17,9 +17,12 @@ public class DragAndDrop : MonoBehaviour
     private Vector3 origin;
     [HideInInspector] public bool movingBack = false;
     public Animator FishAnimator;
+    [HideInInspector] public bool canLadle = false;
+    private Vector3 originalPos;
     private void Start()
     {
         origin = transform.position;
+        originalPos = transform.position;
     }
 
 
@@ -29,7 +32,7 @@ public class DragAndDrop : MonoBehaviour
     {
         worldPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         worldPosition.z = 0;
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0) && canLadle)
         {
             RaycastHit2D hit = Physics2D.Raycast(worldPosition, Vector2.zero, 1f, layerMask);
             if (hit != null && hit.collider.gameObject == gameObject)
@@ -41,7 +44,7 @@ public class DragAndDrop : MonoBehaviour
             }
         }
 
-        if (Input.GetMouseButtonUp(0))
+        if (Input.GetMouseButtonUp(0)) //canLadle is changed by ActionMarker script
         {
             dragging = false;
             movingBack = true;
@@ -73,5 +76,10 @@ public class DragAndDrop : MonoBehaviour
     void OnTriggerEnter2D(Collider2D other)
     {
         FishAnimator.SetTrigger("Kill");
+    }
+
+    public void Reset()
+    {
+        transform.position = originalPos;
     }
 }

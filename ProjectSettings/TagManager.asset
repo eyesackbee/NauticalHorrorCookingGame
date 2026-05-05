@@ -12,6 +12,8 @@ TagManager:
   - Pot
   - Ladle
   - Plate
+  - Mix
+  - Add
   layers:
   - Default
   - TransparentFX

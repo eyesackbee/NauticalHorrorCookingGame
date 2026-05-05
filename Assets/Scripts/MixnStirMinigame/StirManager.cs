@@ -27,6 +27,7 @@ public class StirManager : MonoBehaviour
     private AudioSource audio;
     public Transform LadleEnd;
     public bool canStir = false;
+    public DragAndDrop ladle;
 
     // Start is called before the first frame update
     void Start()
@@ -66,13 +67,13 @@ public class StirManager : MonoBehaviour
             ConveyerManager.actionInProgress.OperationCompleted();
         }
 
-        if (Input.GetMouseButtonDown(0))
+        if (ladle.dragging)
         {
             mouseDown = true;
             speedOfStir += Time.deltaTime;
         }
 
-        if (Input.GetMouseButtonUp(0))
+        if (!ladle.dragging)
         {
             mouseDown = false;
             if(audio != null)
