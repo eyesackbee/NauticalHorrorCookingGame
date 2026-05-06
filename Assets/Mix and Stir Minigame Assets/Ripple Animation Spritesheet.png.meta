@@ -246,7 +246,7 @@ TextureImporter:
         width: 338
         height: 329
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 5, y: 0, z: 41, w: 23}
       customData: 
       outline: []
@@ -268,7 +268,7 @@ TextureImporter:
         width: 445
         height: 429
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 22, y: 0, z: 15, w: 0}
       customData: 
       outline: []
@@ -290,7 +290,7 @@ TextureImporter:
         width: 88
         height: 99
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 26, z: 17, w: 16}
       customData: 
       outline: []
@@ -312,7 +312,7 @@ TextureImporter:
         width: 263
         height: 202
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 36, y: 19, z: 49, w: 26}
       customData: 
       outline: []
@@ -321,6 +321,28 @@ TextureImporter:
       bones: []
       spriteID: 1fc80457f8cafc6b0800000000000000
       internalID: -5273806906480096015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ripple Animation Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 58
+        width: 471
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe7394e2d966b845bcd5519f0ea4a68
+      internalID: 1450176201165855717
       vertices: []
       indices: 
       edges: []

@@ -63,7 +63,11 @@ public class ConveyerManager : MonoBehaviour
             GameObject clone = Instantiate(ingredient.ingredientPrefab, appearancePosition.position, Quaternion.identity);
             clone.GetComponent<Rigidbody2D>().gravityScale = 0;
             action.SetIngredientPrefab(clone);
-            clone.GetComponent<ClickedIngredient>().SetAction(action);
+            if(clone.GetComponent<ClickedIngredient>() != null)
+            {
+                clone.GetComponent<ClickedIngredient>().SetAction(action);
+            }
+            
         }
         
     }

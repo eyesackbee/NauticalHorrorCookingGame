@@ -30,6 +30,7 @@ public class DragAndDrop : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (!canLadle) { return; }
         worldPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         worldPosition.z = 0;
         if (Input.GetMouseButtonDown(0) && canLadle)
@@ -81,5 +82,7 @@ public class DragAndDrop : MonoBehaviour
     public void Reset()
     {
         transform.position = originalPos;
+        canLadle = false;
+        dragging = false;
     }
 }

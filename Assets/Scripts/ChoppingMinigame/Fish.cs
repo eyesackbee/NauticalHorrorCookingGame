@@ -16,16 +16,17 @@ public class Fish : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
-        {
-            animator.SetTrigger("Kill");
-        }
+        //if (Input.GetMouseButtonDown(0))
+        //{
+        //    animator.SetTrigger("Kill");
+        //}
     }
 
     private void OnMouseDown()
     {
-        animator.SetTrigger("Kill");
         StartCoroutine(DelayInvoke());
+        animator.SetTrigger("Kill");
+        
     }
 
     IEnumerator DelayInvoke()
