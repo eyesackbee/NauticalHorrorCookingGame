@@ -6,26 +6,32 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Title.unity
+    path: Assets/Scenes/Menus + Non-Gameplay/Title.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Scenes/ChoppingMinigame.unity
+    path: Assets/Scenes/Minigames/ChoppingMinigame.unity
     guid: f3013298b426c504884dbb31cff883cf
   - enabled: 1
-    path: Assets/Scenes/MinigameTestSelection.unity
+    path: Assets/Scenes/Menus + Non-Gameplay/MinigameTestSelection.unity
     guid: 0034a85b793f40e4eb7e24c88f18f68a
   - enabled: 1
-    path: Assets/Scenes/PeelingMinigame.unity
+    path: Assets/Scenes/Minigames/PeelingMinigame.unity
     guid: af9d9d703c1d8b443815b1fe306dd3bf
   - enabled: 1
-    path: Assets/Scenes/BugCatchingMinigame.unity
+    path: Assets/Scenes/Minigames/BugCatchingMinigame.unity
     guid: 0b5ccbafbb3fb4a4aaafd81dc1a93233
   - enabled: 1
     path: Assets/Scenes/Storyboard Assets.unity
     guid: 97261caec7cd9c24194e49dada478683
   - enabled: 1
-    path: Assets/Scenes/MixnStirMinigame.unity
+    path: Assets/Scenes/Minigames/MixnStirMinigame.unity
     guid: 7768766397cd4e441920d9ef226c03e2
+  - enabled: 1
+    path: Assets/Scenes/Menus + Non-Gameplay/Text Intro.unity
+    guid: 74dd5e7e36ff4854989360e401dc00e5
+  - enabled: 1
+    path: Assets/Scenes/Menus + Non-Gameplay/Ending Screen.unity
+    guid: b60bc6ce76984e44692b15fb6822e2dc
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

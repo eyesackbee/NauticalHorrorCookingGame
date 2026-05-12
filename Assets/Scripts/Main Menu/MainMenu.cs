@@ -5,7 +5,7 @@ public class MainMenu : MonoBehaviour
 {
     public void PlayGame()
     {
-        SceneManager.LoadSceneAsync("MinigameTestSelection");
+        SceneManager.LoadSceneAsync("Text Intro");
     }
 
 }

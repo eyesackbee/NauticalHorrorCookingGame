@@ -14,7 +14,7 @@ AnimatorStateMachine:
     m_Position: {x: 310, y: 40, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 2081583330237344941}
-    m_Position: {x: 340, y: 170, z: 0}
+    m_Position: {x: 480, y: 130, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -33,7 +33,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Fish Flopping
-  m_Speed: 0.5
+  m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: -2673049588592468727}
@@ -46,7 +46,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 39696d814af09a7478140adf5e65caa1, type: 2}
+  m_Motion: {fileID: 7400000, guid: 6ebc85454627c35468517dd7e0b18193, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -125,7 +125,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 6340e73038c1d254c81ec3e782809ba8, type: 2}
+  m_Motion: {fileID: 7400000, guid: 36266ebd76ed30741b067b2a14d2494a, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
