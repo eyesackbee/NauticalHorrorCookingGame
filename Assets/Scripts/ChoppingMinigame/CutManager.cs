@@ -11,9 +11,14 @@ public class CutManager : MonoBehaviour
     public float delayTime = 2f;
     public Animator animator;
     public UnityEvent onComplete;
+    private SoundManager soundManager;
     //private PlayRandomSound prs;
-    
 
+
+    private void Start()
+    {
+        soundManager = FindAnyObjectByType<SoundManager>();
+    }
     public void RemoveCutLine(GameObject cutLine)
     {
         //prs = GetComponent<PlayRandomSound>();
@@ -40,7 +45,7 @@ public class CutManager : MonoBehaviour
                 animator.SetTrigger("Slice");
                 
             }
-
+            soundManager.Slice();
             StartCoroutine(RevealNextFruit());
         }
     }

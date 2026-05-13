@@ -32,7 +32,7 @@ public class TextManager : MonoBehaviour
         index += 1;
         if (index == Instructions.Length)
         {
-            SceneManager.LoadScene("BugCatchingMinigame");
+            SceneManager.LoadScene("Bug Catching Instructions");
         }
         StartCoroutine(DisplayText());
     }

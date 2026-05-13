@@ -32,6 +32,24 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menus + Non-Gameplay/Ending Screen.unity
     guid: b60bc6ce76984e44692b15fb6822e2dc
+  - enabled: 1
+    path: Assets/Scenes/Minigame instructions/Bug Catching Instructions.unity
+    guid: 175822fd2ae7c944a82d6223abe4c7a2
+  - enabled: 1
+    path: Assets/Scenes/Minigame instructions/Chopping Instructions.unity
+    guid: d8b56d6a983e95d448b50eba4f8e4a1e
+  - enabled: 1
+    path: Assets/Scenes/Minigame instructions/Ladling Instructions.unity
+    guid: bb1be560bcb268e4ab830b768d617d0e
+  - enabled: 1
+    path: Assets/Scenes/Minigame instructions/Mix and Stir Instructions.unity
+    guid: a7021d482b2c3fc40829b31a50a1d6f3
+  - enabled: 1
+    path: Assets/Scenes/Minigame instructions/Peeling instructions.unity
+    guid: 2fc85d75067bc714888a4ee2619675db
+  - enabled: 1
+    path: Assets/Scenes/Minigames/LadlingMinigame.unity
+    guid: 2fd2453e45a8d4046a938918de9a116c
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
