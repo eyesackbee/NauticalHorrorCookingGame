@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 2549e9706b23bd54994110f5c59f295b
+guid: 66eef91c519f4434c9af4be115921fd6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9222453289962647713
-    second: Finger Chopped 1_0
-  - first:
-      213: -6899292213609972701
-    second: Finger Chopped 1_1
+      213: -7915671563633370795
+    second: BG animation spritesheet_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -49,12 +46,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 85
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -116,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Finger Chopped 1_0
+      name: BG animation spritesheet_0
       rect:
         serializedVersion: 2
-        x: 998
-        y: 552
-        width: 133
-        height: 111
+        x: 0
+        y: 0
+        width: 7681
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,30 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f5fc42e6893430080800000000000000
-      internalID: -9222453289962647713
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Finger Chopped 1_1
-      rect:
-        serializedVersion: 2
-        x: 1015
-        y: 385
-        width: 149
-        height: 101
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 32cb826294ac040a0800000000000000
-      internalID: -6899292213609972701
+      spriteID: 559d8f2e6a2e52290800000000000000
+      internalID: -7915671563633370795
       vertices: []
       indices: 
       edges: []
@@ -163,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -173,8 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Finger Chopped 1_0: -9222453289962647713
-      Finger Chopped 1_1: -6899292213609972701
+      BG animation spritesheet_0: -7915671563633370795
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

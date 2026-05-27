@@ -2,6 +2,8 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.Events;
 
+
+
 public class Fish : MonoBehaviour
 {
     private Animator animator;
@@ -26,7 +28,6 @@ public class Fish : MonoBehaviour
     {
         StartCoroutine(DelayInvoke());
         animator.SetTrigger("Kill");
-        
     }
 
     IEnumerator DelayInvoke()
