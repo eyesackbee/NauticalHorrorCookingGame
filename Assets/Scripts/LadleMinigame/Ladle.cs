@@ -11,6 +11,12 @@ public class Ladle : MonoBehaviour
         transform.GetChild(0).gameObject.SetActive(false);
     }
 
+    public void RemoveLadle()
+    {
+        Cursor.visible = true;
+        gameObject.SetActive(false);
+    }
+
     // Update is called once per frame
     void Update()
     {

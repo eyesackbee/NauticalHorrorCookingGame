@@ -6,6 +6,7 @@ public class Bowl : MonoBehaviour
     private Transform Soup;
     private int SoupAmount = 0;
     private bool BowlFull = false;
+    public SoupManager Manager;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -23,6 +24,7 @@ public class Bowl : MonoBehaviour
         if (SoupAmount == 3)
         {
             BowlFull = true;
+            Manager.FullBowl();
         }
     }
 

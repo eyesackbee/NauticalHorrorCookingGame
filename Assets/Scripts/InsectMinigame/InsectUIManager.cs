@@ -7,6 +7,7 @@ public class InsectUIManager : MonoBehaviour
     private int[] bugScores;
     private int min = 3;
     private int max = 8;
+    public GameObject Complete;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -34,5 +35,23 @@ public class InsectUIManager : MonoBehaviour
         }
 
         bugNumbers[bugIndex].text = bugScores[bugIndex].ToString();
+        if (AllCompleted())
+        {
+            Complete.SetActive(true);
+        }
+    }
+
+
+    bool AllCompleted()
+    {
+        bool complete = true;
+        for (int i = 0; i < 5; i++)
+        {
+            if (bugScores[i] != 0) 
+            {
+                complete = false;
+            }
+        }
+        return complete;
     }
 }
