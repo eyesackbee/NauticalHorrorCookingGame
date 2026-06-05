@@ -1358,6 +1358,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &143785116
 GameObject:
   m_ObjectHideFlags: 0
@@ -2405,6 +2406,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &233180787
 GameObject:
   m_ObjectHideFlags: 0
@@ -3123,6 +3125,16 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  fadeObjects:
+  - {fileID: 2063403077}
+  - {fileID: 1355584269}
+  - {fileID: 148610352}
+  - {fileID: 148610352}
+  - {fileID: 922106237}
+  - {fileID: 703286592}
+  - {fileID: 2014368335}
+  - {fileID: 1295171911}
+  - {fileID: 1111222772}
 --- !u!1 &365139404
 GameObject:
   m_ObjectHideFlags: 0
@@ -4315,6 +4327,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &467699246
 GameObject:
   m_ObjectHideFlags: 0
@@ -4929,6 +4942,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &530938494
 GameObject:
   m_ObjectHideFlags: 0
@@ -5183,6 +5197,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &555519395
 GameObject:
   m_ObjectHideFlags: 0
@@ -5350,6 +5365,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &558020480
 GameObject:
   m_ObjectHideFlags: 0
@@ -5559,6 +5575,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &584750665
 GameObject:
   m_ObjectHideFlags: 0
@@ -5680,6 +5697,62 @@ Transform:
   m_Children:
   - {fileID: 1194734306}
   m_Father: {fileID: 568342072}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &597487413
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 597487415}
+  - component: {fileID: 597487414}
+  m_Layer: 0
+  m_Name: Temp
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &597487414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 597487413}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a6041c073fdf2c41b2386d15e3a9a8b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cutLines: []
+  wholeFruit: {fileID: 0}
+  fruitSplit: {fileID: 0}
+  delayTime: 2
+  animator: {fileID: 0}
+  onComplete:
+    m_PersistentCalls:
+      m_Calls: []
+  fadeObjects:
+  - {fileID: 1806962044}
+  - {fileID: 1724469325}
+  - {fileID: 397125871}
+--- !u!4 &597487415
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 597487413}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.44195572, y: -0.67811835, z: -9.939279}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &599660559
 GameObject:
@@ -5995,6 +6068,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &634351280
 GameObject:
   m_ObjectHideFlags: 0
@@ -6968,6 +7042,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &719957675
 GameObject:
   m_ObjectHideFlags: 0
@@ -7282,6 +7357,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &743737092
 GameObject:
   m_ObjectHideFlags: 0
@@ -8258,6 +8334,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &841599574
 GameObject:
   m_ObjectHideFlags: 0
@@ -10517,7 +10594,7 @@ MonoBehaviour:
   - {fileID: 2018467681}
   wholeFruit: {fileID: 0}
   fruitSplit: {fileID: 0}
-  delayTime: 0
+  delayTime: 1
   animator: {fileID: 0}
   onComplete:
     m_PersistentCalls:
@@ -10654,6 +10731,13 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  fadeObjects:
+  - {fileID: 1106178246}
+  - {fileID: 2092549805}
+  - {fileID: 2100040182}
+  - {fileID: 513028772}
+  - {fileID: 728830876}
+  - {fileID: 804641827}
 --- !u!1 &1058738398
 GameObject:
   m_ObjectHideFlags: 0
@@ -11220,6 +11304,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &1111222770
 GameObject:
   m_ObjectHideFlags: 0
@@ -11419,6 +11504,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &1125523944
 GameObject:
   m_ObjectHideFlags: 0
@@ -11595,6 +11681,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &1158669347
 GameObject:
   m_ObjectHideFlags: 0
@@ -11781,6 +11868,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &1194734305
 GameObject:
   m_ObjectHideFlags: 0
@@ -12059,6 +12147,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &1221846832
 GameObject:
   m_ObjectHideFlags: 0
@@ -12701,6 +12790,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &1295171909
 GameObject:
   m_ObjectHideFlags: 0
@@ -13408,6 +13498,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &1377710214
 GameObject:
   m_ObjectHideFlags: 0
@@ -13671,6 +13762,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &1382504295
 GameObject:
   m_ObjectHideFlags: 0
@@ -14252,6 +14344,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  OnClickFirst:
+    m_PersistentCalls:
+      m_Calls:
       - m_Target: {fileID: 1814006263}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
@@ -14353,6 +14448,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &1428820868
 GameObject:
   m_ObjectHideFlags: 0
@@ -14479,7 +14575,7 @@ MonoBehaviour:
   - {fileID: 784815231}
   wholeFruit: {fileID: 0}
   fruitSplit: {fileID: 0}
-  delayTime: 0
+  delayTime: 2
   animator: {fileID: 922106236}
   onComplete:
     m_PersistentCalls:
@@ -14544,6 +14640,16 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects:
+  - {fileID: 1355584269}
+  - {fileID: 148610352}
+  - {fileID: 148610352}
+  - {fileID: 922106237}
+  - {fileID: 703286592}
+  - {fileID: 2014368335}
+  - {fileID: 1295171911}
+  - {fileID: 1111222772}
+  - {fileID: 151400976}
 --- !u!1 &1464350610
 GameObject:
   m_ObjectHideFlags: 0
@@ -14633,6 +14739,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &1467780283
 GameObject:
   m_ObjectHideFlags: 0
@@ -14678,6 +14785,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  OnClickFirst:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!212 &1467780285
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -15726,6 +15836,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &1635731232
 GameObject:
   m_ObjectHideFlags: 0
@@ -15827,6 +15938,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &1636226463
 GameObject:
   m_ObjectHideFlags: 0
@@ -16124,6 +16236,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &1701126075
 GameObject:
   m_ObjectHideFlags: 0
@@ -16731,6 +16844,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  OnClickFirst:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!212 &1773343598
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -17120,7 +17236,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1806962045}
   - component: {fileID: 1806962044}
-  - component: {fileID: 1806962046}
   m_Layer: 0
   m_Name: Chopping Board
   m_TagString: Untagged
@@ -17198,28 +17313,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &1806962046
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1806962043}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: d378cba7bf1425b47b3844ee0f25e4b4, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1813547920
 GameObject:
   m_ObjectHideFlags: 0
@@ -17923,6 +18016,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &1936778820
 GameObject:
   m_ObjectHideFlags: 0
@@ -18012,6 +18106,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &1949358724
 GameObject:
   m_ObjectHideFlags: 0
@@ -19260,6 +19355,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  OnClickFirst:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!212 &2063403077
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -19742,6 +19840,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  fadeObjects: []
 --- !u!1 &2100040179
 GameObject:
   m_ObjectHideFlags: 0
@@ -20233,3 +20332,4 @@ SceneRoots:
   - {fileID: 841599576}
   - {fileID: 226966103}
   - {fileID: 1523934635}
+  - {fileID: 597487415}

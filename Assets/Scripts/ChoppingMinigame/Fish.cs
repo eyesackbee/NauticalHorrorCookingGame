@@ -8,6 +8,7 @@ public class Fish : MonoBehaviour
 {
     private Animator animator;
     public UnityEvent OnClick;
+    public UnityEvent OnClickFirst;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -32,7 +33,8 @@ public class Fish : MonoBehaviour
 
     IEnumerator DelayInvoke()
     {
-        yield return new WaitForSeconds(1);
+        OnClickFirst.Invoke();
+        yield return new WaitForSeconds(1f);
         OnClick.Invoke();
     }
 }
