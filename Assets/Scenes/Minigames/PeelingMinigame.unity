@@ -2143,6 +2143,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  baseSprite: {fileID: 2125515337}
 --- !u!4 &500374607
 Transform:
   m_ObjectHideFlags: 0
@@ -3960,6 +3961,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  baseSprite: {fileID: 920764615}
 --- !u!4 &1007441430
 Transform:
   m_ObjectHideFlags: 0
@@ -4510,6 +4512,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  baseSprite: {fileID: 762198404}
 --- !u!4 &1133932917
 Transform:
   m_ObjectHideFlags: 0
@@ -7818,6 +7821,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  baseSprite: {fileID: 1773599481}
 --- !u!4 &1770695903
 Transform:
   m_ObjectHideFlags: 0
@@ -8282,6 +8286,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  baseSprite: {fileID: 1505826237}
 --- !u!1 &1903956841
 GameObject:
   m_ObjectHideFlags: 0

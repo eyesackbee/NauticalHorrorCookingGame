@@ -13,7 +13,8 @@ public class CutManager : MonoBehaviour
     public Animator animator;
     public UnityEvent onComplete;
     private SoundManager soundManager;
-    public SpriteRenderer[] fadeObjects;
+    private List<SpriteRenderer> fadeObjects;
+    public Transform fadeParent;
     //private PlayRandomSound prs;
     public Sequence fadeSequence;
 
@@ -21,13 +22,21 @@ public class CutManager : MonoBehaviour
     private void Start()
     {
         soundManager = FindAnyObjectByType<SoundManager>();
-
+        if(fadeParent != null && fadeParent.childCount > 0)
+        {
+            fadeObjects = new List<SpriteRenderer>();
+            for (int i = 0; i < fadeParent.childCount; i++)
+            {
+                fadeObjects.Add(fadeParent.GetChild(i).gameObject.GetComponent<SpriteRenderer>());
+            }
+        }
+        
     }
 
     private void FadeOut()
     {
-        if (fadeObjects.Length > 0) {
-            for (int i = 0; i < fadeObjects.Length; i++)
+        if (fadeObjects.Count > 0) {
+            for (int i = 0; i < fadeObjects.Count; i++)
             {
                 fadeObjects[i].DOFade(0, delayTime / 2f);
             }
@@ -69,11 +78,11 @@ public class CutManager : MonoBehaviour
     IEnumerator RevealNextFruit()
     {
         Debug.Log("coroutine entered");
-        Debug.Log("length: " + fadeObjects.Length);
+        Debug.Log("length: " + fadeObjects?.Count);
         yield return new WaitForSeconds(0.2f);
-        if (fadeObjects.Length > 0)
+        if (fadeObjects?.Count > 0)
         {
-            for (int i = 0; i < fadeObjects.Length; i++)
+            for (int i = 0; i < fadeObjects.Count; i++)
             {
                 Debug.Log("fading");
                 fadeObjects[i].DOFade(0, 0.5f);

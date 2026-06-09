@@ -58,6 +58,7 @@ public class ConveyerManager : MonoBehaviour
 
     public void ShowAdd(Ingredient ingredient, AddAction action)
     {
+        if (action.GetIngredientType() == ActionType.Mix) { return; }
         if (ingredient.ingredientPrefab != null)
         {
             GameObject clone = Instantiate(ingredient.ingredientPrefab, appearancePosition.position, Quaternion.identity);

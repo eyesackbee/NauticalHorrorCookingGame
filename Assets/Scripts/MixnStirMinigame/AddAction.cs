@@ -18,6 +18,11 @@ public class AddAction : MonoBehaviour
         ingredient = theIngredient;
     }
 
+    public ActionType GetIngredientType()
+    {
+        return ingredient.actionType;
+    }
+
     public void SetIngredientPrefab(GameObject veg)
     {
         prefab = veg;

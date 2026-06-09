@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.Events;
 using System.Collections;
+using DG.Tweening;
 
 public class CabbageManager : MonoBehaviour
 {
@@ -9,6 +10,7 @@ public class CabbageManager : MonoBehaviour
     private int index = 0;
     public UnityEvent OnComplete;
     bool complete = false;
+    public SpriteRenderer baseSprite;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -36,6 +38,11 @@ public class CabbageManager : MonoBehaviour
 
     IEnumerator Complete()
     {
+        yield return new WaitForSeconds(1f);
+        if (baseSprite != null)
+        {
+           baseSprite.DOFade(0, 0.5f);
+        }
         yield return new WaitForSeconds(1f);
         OnComplete.Invoke();
     }
