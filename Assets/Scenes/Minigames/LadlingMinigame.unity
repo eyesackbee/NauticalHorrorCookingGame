@@ -1119,6 +1119,50 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &463749393
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 463749394}
+  - component: {fileID: 463749395}
+  m_Layer: 0
+  m_Name: GoToEnd
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &463749394
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 463749393}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.632705, y: 40.050003, z: 5.7419906}
+  m_LocalScale: {x: 0.3589891, y: 0.26071543, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2079976483}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &463749395
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 463749393}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0df73d6a9d895944928016311cbd913, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &527650197
 GameObject:
   m_ObjectHideFlags: 0
@@ -3440,7 +3484,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &2079736942
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3493,6 +3537,7 @@ RectTransform:
   m_LocalScale: {x: 2.7856, y: 3.8356, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 463749394}
   - {fileID: 1101053862}
   m_Father: {fileID: 2079736942}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3544,7 +3589,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2079976485}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 463749395}
+        m_TargetAssemblyTypeName: GoToEnd, Assembly-CSharp
+        m_MethodName: LoadEnds
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2079976485
 MonoBehaviour:
   m_ObjectHideFlags: 0
