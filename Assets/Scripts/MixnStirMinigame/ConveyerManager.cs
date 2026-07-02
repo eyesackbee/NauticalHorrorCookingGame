@@ -1,4 +1,6 @@
+using System.Collections;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class ConveyerManager : MonoBehaviour
 
@@ -12,6 +14,11 @@ public class ConveyerManager : MonoBehaviour
     private float count = 0;
     public static AddAction actionInProgress;
     public int correctOperations = 0;
+    public UnityEvent onComplete;
+    private bool over = false;
+    private GameObject LastAction;
+
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -21,7 +28,7 @@ public class ConveyerManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(index == conveyerItems.Length) 
+        if(index == conveyerItems.Length && over == false) 
         { 
             if(correctOperations > 6)
             {
@@ -35,24 +42,31 @@ public class ConveyerManager : MonoBehaviour
             {
                 Debug.Log("bAD!!!!");
             }
+            over = true;
+       
                 return; 
         }
         count += Time.deltaTime;
         if (count > spawnRateInSeconds)
         {
+            GameObject clone = null;
             if(conveyerItems[index].actionType == ActionType.Mix)
             {
-                GameObject clone = Instantiate(mixPrefab, transform.position, Quaternion.identity);
+                clone = Instantiate(mixPrefab, transform.position, Quaternion.identity);
                 clone.GetComponent<AddAction>().SetIngredient(conveyerItems[index]);
             }
             else
             {
-                GameObject clone = Instantiate(addPrefab, transform.position, Quaternion.identity);
+                clone = Instantiate(addPrefab, transform.position, Quaternion.identity);
                 clone.GetComponent<AddAction>().SetIngredient(conveyerItems[index]);
             }
             
             count = 0;
             index += 1;
+            if (index == conveyerItems.Length)
+            {
+                LastAction = clone; 
+            }
         }
     }
 
@@ -72,4 +86,19 @@ public class ConveyerManager : MonoBehaviour
         }
         
     }
+
+    public void MarkerTriggered(GameObject action)
+    {
+        if (over == true && action == LastAction)
+        {
+            StartCoroutine(OnComplete());
+        }
+    }
+
+    IEnumerator OnComplete()
+    {
+        yield return new WaitForSeconds(2f);
+        onComplete.Invoke();
+    }
+
 }

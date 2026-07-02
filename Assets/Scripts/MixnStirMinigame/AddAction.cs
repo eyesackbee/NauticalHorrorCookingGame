@@ -70,7 +70,8 @@ public class AddAction : MonoBehaviour
                 
                 Destroy(prefab);
             }
-            Destroy(gameObject,1f);
+            manager.MarkerTriggered(this.gameObject);
+            Destroy(gameObject,1.25f);
         }
     }
 }

@@ -4,11 +4,14 @@ using UnityEngine.InputSystem;
 public class Ladle : MonoBehaviour
 {
     public LayerMask layer;
+    private int ClickCount = 0;
+    public Collider2D bowlcollider;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         Cursor.visible = false;
         transform.GetChild(0).gameObject.SetActive(false);
+        bowlcollider = GetComponent<Collider2D>();
     }
 
     public void RemoveLadle()
@@ -26,14 +29,23 @@ public class Ladle : MonoBehaviour
 
         if (Input.GetMouseButtonDown(0))
         {
+            
             if (transform.GetChild(0).gameObject.activeSelf)
             {
-                RaycastHit2D hit = Physics2D.Raycast(Camera.main.ScreenToWorldPoint(Input.mousePosition), Vector2.zero, 1f, layer);
-                if (hit == true)
+                
+                //RaycastHit2D hit = Physics2D.Raycast(Camera.main.ScreenToWorldPoint(Input.mousePosition), Vector2.zero, 1f, layer);
+                //if (hit == true)
+                //{
+                //    ClickCount++;
+                //    print("Clicks:" + ClickCount);
+              
+                //    //print("mouseDown " + hit.collider.name);
+                //    hit.collider.GetComponent<Bowl>().AddSoup();
+                //    transform.GetChild(0).gameObject.SetActive(false);
+                //}
+                if (bowlcollider.bounds.Contains(cursorPos))
                 {
-                    print("mouseDown " + hit.collider.name);
-                    hit.collider.GetComponent<Bowl>().AddSoup();
-                    transform.GetChild(0).gameObject.SetActive(false);
+                    bowlcollider.GetComponent<Bowl>().AddSoup();
                 }
             }
 
