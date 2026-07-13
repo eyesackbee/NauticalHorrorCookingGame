@@ -21,7 +21,7 @@ public class CutManager : MonoBehaviour
 
     private void Start()
     {
-        soundManager = FindAnyObjectByType<SoundManager>();
+        soundManager = GetComponentInParent<SoundManager>();
         if(fadeParent != null && fadeParent.childCount > 0)
         {
             fadeObjects = new List<SpriteRenderer>();

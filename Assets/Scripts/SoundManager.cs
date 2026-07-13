@@ -3,7 +3,7 @@ using UnityEngine;
 public class SoundManager : MonoBehaviour
 {
     private AudioSource audio;
-    public AudioClip slice;
+    public AudioClip[] slices;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -18,7 +18,8 @@ public class SoundManager : MonoBehaviour
 
     public void Slice()
     {
-        audio.clip = slice;
+        int soundIndex = Random.Range(0, slices.Length);
+        audio.clip = slices[soundIndex];
         audio.Play();
     }
 }

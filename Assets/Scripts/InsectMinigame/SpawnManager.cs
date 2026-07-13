@@ -1,15 +1,19 @@
-using System;
 using System.Collections;
 using UnityEngine;
+
 
 public class SpawnManager : MonoBehaviour
 {
     public GameObject[] Bug;
     public float SpawnRate;
     public Transform[] SpawnPoints;
+    private AudioSource audio;
+    public AudioClip[] BugSounds;
+    public AudioClip BugSquish;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        audio = GetComponent<AudioSource>();
         StartCoroutine(SpawnBug());
     }
 
@@ -19,12 +23,34 @@ public class SpawnManager : MonoBehaviour
         
     }
 
+    public void PlayBugSound()
+    {
+        int soundIndex = Random.Range(0, BugSounds.Length);
+        audio.clip = BugSounds[soundIndex];
+        audio.loop = true;
+        audio.Play();
+    }
+
+    public void StopBugSound()
+    {
+        audio.Stop();
+    }
+
+    public void SquishBugSound()
+    {
+        audio.Stop();
+        audio.clip = BugSquish;
+        audio.loop = false;
+        audio.Play();
+    }
+
     IEnumerator SpawnBug()
     {
         yield return new WaitForSeconds(SpawnRate);
-        int index= UnityEngine.Random.Range(0,  Bug.Length);
+        
+        int index= Random.Range(0,  Bug.Length);
 
-        int spawnIndex = UnityEngine.Random.Range(0, SpawnPoints.Length);
+        int spawnIndex = Random.Range(0, SpawnPoints.Length);
         switch (spawnIndex)
         {
             case 0:

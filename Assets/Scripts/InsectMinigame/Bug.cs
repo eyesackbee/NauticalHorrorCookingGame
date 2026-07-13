@@ -7,6 +7,7 @@ public class Bug : MonoBehaviour
     private float Speed;
     public int BugNumber;
     private InsectUIManager UIManager;
+    private SpawnManager spawnManager;
     [HideInInspector] public float direction;
     [HideInInspector] public bool flipX = false;
     private SpriteRenderer spriteRenderer;
@@ -32,7 +33,8 @@ public class Bug : MonoBehaviour
         //}
         //transform.Rotate(0, 0, Rotz);
         UIManager = FindFirstObjectByType<InsectUIManager>();
-
+        spawnManager = FindFirstObjectByType<SpawnManager>();
+        spawnManager.PlayBugSound();
     }
 
     // Update is called once per frame
@@ -49,6 +51,7 @@ public class Bug : MonoBehaviour
     {
         UIManager.UpdatebugScores(BugNumber);
         Destroy(gameObject);
+        spawnManager.SquishBugSound();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -56,6 +59,7 @@ public class Bug : MonoBehaviour
         if (collision.CompareTag("Border"))
         {
             Destroy(gameObject);
+            spawnManager.StopBugSound();
         }
     }
 }

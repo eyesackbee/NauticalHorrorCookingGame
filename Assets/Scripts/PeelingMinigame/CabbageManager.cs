@@ -11,6 +11,8 @@ public class CabbageManager : MonoBehaviour
     public UnityEvent OnComplete;
     bool complete = false;
     public SpriteRenderer baseSprite;
+    private AudioSource audio;
+    public AudioClip[] PeelSounds;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -20,11 +22,15 @@ public class CabbageManager : MonoBehaviour
             item.enabled = false;
         }
         peels[0].enabled = true;
+        audio = GetComponent<AudioSource>();
     }
 
     public void Peeled()
     {
         if (complete) { return; }
+        int soundIndex = Random.Range(0, PeelSounds.Length);
+        audio.clip = PeelSounds[soundIndex];
+        audio.Play();
         peels[index].enabled = false;
         index++;
         if(index == peels.Length)
