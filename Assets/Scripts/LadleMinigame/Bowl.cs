@@ -7,6 +7,7 @@ public class Bowl : MonoBehaviour
     private int SoupAmount = 0;
     private bool BowlFull = false;
     public SoupManager Manager;
+    public PlateClatter clatter;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -25,6 +26,14 @@ public class Bowl : MonoBehaviour
         {
             BowlFull = true;
             Manager.FullBowl();
+        }
+    }
+
+    void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Plate"))
+        {
+            clatter.PlaySound();
         }
     }
 

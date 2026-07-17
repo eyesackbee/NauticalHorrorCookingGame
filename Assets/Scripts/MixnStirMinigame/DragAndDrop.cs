@@ -19,10 +19,12 @@ public class DragAndDrop : MonoBehaviour
     public Animator FishAnimator;
     [HideInInspector] public bool canLadle = false;
     private Vector3 originalPos;
+    private AudioSource audio;
     private void Start()
     {
         origin = transform.position;
         originalPos = transform.position;
+        audio = GetComponent<AudioSource>();
     }
 
 
@@ -42,6 +44,10 @@ public class DragAndDrop : MonoBehaviour
                 selectedObject = hit.collider.transform;
                 offset = worldPosition - selectedObject.position;
                 dragging = true;
+                if (!audio.isPlaying)
+                {
+                    audio.Play();
+                }
             }
         }
 
@@ -49,6 +55,7 @@ public class DragAndDrop : MonoBehaviour
         {
             dragging = false;
             movingBack = true;
+            audio.Stop();
         }
 
         if (dragging)
@@ -67,6 +74,7 @@ public class DragAndDrop : MonoBehaviour
 
     void SnapBack(float step)
     {
+        audio.Stop();
         transform.position = Vector2.MoveTowards(transform.position, origin, step);
         if (Mathf.Approximately(Vector2.Distance(transform.position, origin), 0))
         {
@@ -81,6 +89,7 @@ public class DragAndDrop : MonoBehaviour
 
     public void Reset()
     {
+        audio.Stop();
         transform.position = originalPos;
         canLadle = false;
         dragging = false;

@@ -67,7 +67,8 @@ public class CutManager : MonoBehaviour
             }
             if (animator != null)
             {
-                animator.SetTrigger("Slice");
+                //animator.SetTrigger("Slice");
+          
                 
             }
             soundManager.Slice();
